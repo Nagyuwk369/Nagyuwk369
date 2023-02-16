@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nagyuwk369
-- 👀 I’m interested in brograming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning html CSS JavaScript Frameworks
 - 📫 How to reach me nagysamir789@gmail.com
 
